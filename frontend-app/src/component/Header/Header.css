@@ -1,0 +1,19 @@
+.header_container {
+  background-color: brown;
+  width: 100vw;
+  height: 60px;
+}
+.link_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 80%;
+  height: 100%;
+}
+a {
+  padding-left: 35px;
+  text-decoration: none;
+  color: palegreen;
+  font-size: 18px;
+  font-weight: bold;
+}
